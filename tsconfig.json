@@ -1,0 +1,42 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "isolatedModules": false,
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "noEmitOnError": true,
+        "noExternalResolve": false,
+        "declarationFiles": true,
+        "outDir": "app"
+    },
+    "compileOnSave": false,
+    "filesGlob": [
+        "src/**/*.ts",
+        "typings/tsd.d.ts"
+    ],
+    "files": [
+        "src/index.d.ts",
+        "src/index.ts",
+        "src/product/lib/ProductManager.spec.ts",
+        "src/product/lib/ProductManager.ts",
+        "src/product/model/Product.ts",
+        "src/product/model/ProductDocument.ts",
+        "src/product/model/ProductDocumentManager.ts",
+        "src/product/model/ProductInterface.ts",
+        "src/product/model/ProductSchema.ts",
+        "src/product/model/ProductStatus.ts",
+        "typings/tsd.d.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}
