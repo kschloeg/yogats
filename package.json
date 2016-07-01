@@ -1,7 +1,7 @@
 {
   "name": "yogats",
-    "version": "0.9.0",
-    "description": "Starter server module using TypeScript, Mongoose, and MongoDB",
+    "version": "0.1.0",
+    "description": "Yoga class and instructor module using TypeScript, Mongoose, and MongoDB",
     "engines": {
         "npm": "3.x"
     },
