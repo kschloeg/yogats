@@ -1,6 +1,6 @@
-declare class ProductStatus {
+declare class UserStatus {
     static ACTIVE: string;
     static INACTIVE: string;
     static values: string[];
 }
-export = ProductStatus;
+export = UserStatus;
