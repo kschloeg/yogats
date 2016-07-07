@@ -1,6 +1,6 @@
 {
   "name": "yogats",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Yoga class and instructor module using TypeScript, Mongoose, and MongoDB",
     "engines": {
         "npm": "3.x"
