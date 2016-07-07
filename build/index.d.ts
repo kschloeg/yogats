@@ -1,4 +1,4 @@
-export import Product = require("./product/model/Product");
-export import ProductInterface = require("./product/model/ProductInterface");
-export import ProductStatus = require("./product/model/ProductStatus");
-export import ProductManager = require("./product/lib/ProductManager");
+export import User = require("./user/model/User");
+export import UserInterface = require("./user/model/UserInterface");
+export import UserStatus = require("./user/model/UserStatus");
+export import UserManager = require("./user/lib/UserManager");

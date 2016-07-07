@@ -26,14 +26,14 @@
     "files": [
         "src/index.d.ts",
         "src/index.ts",
-        "src/product/lib/ProductManager.spec.ts",
-        "src/product/lib/ProductManager.ts",
-        "src/product/model/Product.ts",
-        "src/product/model/ProductDocument.ts",
-        "src/product/model/ProductDocumentManager.ts",
-        "src/product/model/ProductInterface.ts",
-        "src/product/model/ProductSchema.ts",
-        "src/product/model/ProductStatus.ts",
+        "src/user/lib/UserManager.spec.ts",
+        "src/user/lib/UserManager.ts",
+        "src/user/model/User.ts",
+        "src/user/model/UserDocument.ts",
+        "src/user/model/UserDocumentManager.ts",
+        "src/user/model/UserInterface.ts",
+        "src/user/model/UserSchema.ts",
+        "src/user/model/UserStatus.ts",
         "typings/tsd.d.ts"
     ],
     "atom": {
